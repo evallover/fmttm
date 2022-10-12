@@ -1,0 +1,15 @@
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\bin\Debug\net6.0\Pr2.exe
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\bin\Debug\net6.0\Pr2.deps.json
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\bin\Debug\net6.0\Pr2.runtimeconfig.json
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\bin\Debug\net6.0\Pr2.dll
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\bin\Debug\net6.0\Pr2.pdb
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\Pr2.csproj.AssemblyReference.cache
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\Pr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\Pr2.AssemblyInfoInputs.cache
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\Pr2.AssemblyInfo.cs
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\Pr2.csproj.CoreCompileInputs.cache
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\Pr2.dll
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\refint\Pr2.dll
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\Pr2.pdb
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\Pr2.genruntimeconfig.cache
+C:\Users\girll\Desktop\AAA\Pr2\Pr2\Pr2\obj\Debug\net6.0\ref\Pr2.dll
